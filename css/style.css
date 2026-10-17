@@ -47,3 +47,25 @@ legend {
     font-size: 18px;
     padding: o 5px;
 }
+
+label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+input, select, textarea {
+    width:100%;
+    padding: 10px;
+    margin-botton: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+textarea {
+    min-height: 100px;
+}
+input[type="radio"],
+input[type="checkbox"] {
+    width: 40px;  
+    padding: 0 5px;  
+}
