@@ -1,4 +1,4 @@
-
+ 
 * {
     margin: 0;
     padding: 0;
@@ -27,6 +27,7 @@ img {
 
 h1 {
    font-family: "Fjalla One", sans-serif;  
+   text-align: center;
 }
 
 form {
@@ -48,6 +49,10 @@ legend {
     font-weight: bold;
     font-size: 18px;
     padding: 0 5px;
+}
+
+p {
+    margin-bottom: 10px;
 }
 
 label {
